@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<settings>
+
+	<settings_type_default>
+		<name>"default"</name>
+		<project_settings>
+			<project_path>""</project_path>
+		</project_settings>
+		<picture_settings>
+
+		</picture_settings>
+	</settings_type_default>
+
+	<settings_type_recent>
+		<name>"recent"</name>
+		<project_settings>
+			<project_path>""</project_path>
+		</project_settings>
+		<picture_settings>
+
+		</picture_settings>
+	</settings_type_recent>
+
+	<settings_type_saved>
+		<name>"save1"</name>
+		<project_settings>
+			<project_path>""</project_path>
+		</project_settings>
+		<picture_settings>
+
+		</picture_settings>
+	</settings_type_saved>
+
+	<settings_type_saved>
+		<name>"save2"</name>
+		<project_settings>
+			<project_path>""</project_path>
+		</project_settings>
+		<picture_settings>
+
+		</picture_settings>
+	</settings_type_saved>
+</settings>
